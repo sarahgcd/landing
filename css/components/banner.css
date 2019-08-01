@@ -1,0 +1,18 @@
+.banner {
+  background-size: cover;
+  margin: 0 auto;
+  background-position: center;
+  padding: 200px 0
+}
+
+.banner-content {
+  display: inline-block;
+  align-items: center;
+  color: white;
+  margin-inline-start: 250px;
+}
+
+.banner-content p {
+  font-size: 20px;
+}
+

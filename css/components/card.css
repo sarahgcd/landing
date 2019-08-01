@@ -1,0 +1,33 @@
+.container {
+  margin: 0 auto;
+}
+
+.container h2 {
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  display: flex;
+  justify-content: space-around;
+  max-width: 900px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+
+.card {
+  width: 200px;
+  height: 250px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(50, 50, 50, 0.3);
+  padding: 20px;
+  text-align: center;
+}
+
+.card img {
+  width: 150px;
+}
+
+.card p {
+  text-align: bottom;
+}
